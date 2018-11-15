@@ -1,0 +1,12 @@
+* {
+  background: #121212;
+}
+
+.img-container {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.img-container img {
+  border: 1px solid white;
+}
